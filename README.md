@@ -5,6 +5,7 @@ This is a command-line application that allows for quick and easy generation of 
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
+* [Badges](#badges)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
@@ -12,10 +13,17 @@ This is a command-line application that allows for quick and easy generation of 
 * [Questions](#questions)       
   
 ## Installation
-No installation required.
+npm install
+
+## Badges 
+[![npm version](https://badge.fury.io/js/axios.svg)](https://badge.fury.io/js/axios) 
+[![npm version](https://badge.fury.io/js/dotenv.svg)](https://badge.fury.io/js/dotenv) 
+[![npm version](https://badge.fury.io/js/fs.svg)](https://badge.fury.io/js/fs) 
+[![npm version](https://badge.fury.io/js/inquirer.svg)](https://badge.fury.io/js/inquirer) 
+[![npm version](https://badge.fury.io/js/util.svg)](https://badge.fury.io/js/util) 
   
 ## Usage
-Fork/Download/Copy all files. Run application via command line interface utilizing command "node index.js". Follow onscreen prompts. After completion, user may find their README and LICENSE file in the "your_files" output folder. Copy and paste both files into the root of the corresponding repository. User will now see that the README file indicates a license badge following the title of the project.
+Run application via command line interface utilizing command "node index.js" and follow onscreen prompts. 
   
 ## License
 This project is licensed under the terms of the MIT License
